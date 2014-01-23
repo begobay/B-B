@@ -18,10 +18,11 @@ import android.widget.TabHost;
 public class MenuPrincipal extends Activity {
 
 	//private Button bLinkedin;
-	//peeetaaaaarrrrrdddddiiiiiiiiiiiiiii
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		String pepe = "dada";
 		setContentView(R.layout.activity_menu_principal);
 		Resources res = getResources();
 		 
