@@ -18,7 +18,7 @@ import android.widget.TabHost;
 public class MenuPrincipal extends Activity {
 
 	//private Button bLinkedin;
-	
+	//peeetaaaaarrrrrdddddiiiiiiiiiiiiiii
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
